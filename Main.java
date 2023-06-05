@@ -1,5 +1,5 @@
 /***
- *     png_defringe_js - a rewrite of png_defringe_rs that removes fringes for filtered images.
+ *     png_defringe_java - a rewrite of png_defringe_rs that removes fringes for filtered images.
  *     Copyright (C) 2023 atsb.
 
  *     This program is free software: you can redistribute it and/or modify
